@@ -1,0 +1,16 @@
+{
+  "name": "vitetest",
+  "version": "1.0.0",
+  "description": "real vitetest demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^1.2.1"
+  } , 
+  "type":"module"
+}
